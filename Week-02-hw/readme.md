@@ -17,3 +17,5 @@ That covers Q's 1 and 2 now for the rest:
 3. I didnt help my fellow classmates....YET.
 
 ![This is an Example Image](Screen Shot 2017-02-21 at 2.14.12 PM.png)
+
+```inline code preview```
