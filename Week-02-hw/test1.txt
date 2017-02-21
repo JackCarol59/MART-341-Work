@@ -1,0 +1,6 @@
+Jackson Carol
+ 2/17/17
+
+This is my first text file!!!
+
+Added a new line in atom!
