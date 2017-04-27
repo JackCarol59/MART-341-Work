@@ -1,6 +1,29 @@
-@import url('https://fonts.googleapis.com/css?family=Play');
+@import url('https://fonts.googleapis.com/css?family=Play|Press+Start+2P');
 
-/*body {
-  font-family: 'Play', sans-serif;
+header {
+  background-image: url("../images/stars.gif");
   background-color: black;
-}*/
+  font-family: 'Play', sans-serif;
+  color: Gold;
+  padding: 3em
+}
+body {
+
+  background-color: black;
+  color: Gold
+}
+P {
+  font-family: 'Play', sans-serif;
+  text-indent: 29px
+}
+ul {
+  font-family: 'Play', sans-serif;
+}
+h2, h3 {
+letter-spacing: 2px;
+font-family: 'Press Start 2P', cursive;
+font-size: 92%
+}
+  .sign-off {
+
+  }
