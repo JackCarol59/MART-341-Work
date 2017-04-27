@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Play|Press+Start+2P');
 
 .title{
-  font-size: 300px;
+  font-size: 175px;
+  text-align: center;
 }
 
 header {
