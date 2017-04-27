@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Play|Press+Start+2P');
-
+.title{font-size: 250%}
 header {
   background-image: url("../images/stars.gif");
   background-color: black;
