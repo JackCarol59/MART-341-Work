@@ -6,13 +6,18 @@ body {
 header {
     margin: 0;
     padding: 0;
-    min-width: 450px;
+}
+
+menu {
+  width: 100%;
+  display: block;
 }
 
 .menu-container {
     background-color: #F08080;
     margin: 0;
     padding: 0;
+    width: 100%;
 }
 
 .tab {
@@ -47,7 +52,7 @@ header {
     margin: 0;
     color: #000;
     background-color: #fff;
-    z-index: 5;
+    z-index: 3;
 }
 
 .dropdown-content a {
@@ -78,4 +83,7 @@ p {
   background-color:#F08080;
   max-width: 5em;
   padding: 2em;
+}
+.aside-head {
+  background-image: url("images/jungle.jpg");
 }
