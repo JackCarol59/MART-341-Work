@@ -65,11 +65,11 @@ header {
 }
 
 p {
-  border: ridge;
+  /*border: ridge;
   border-radius: 5px;
   border-width: 0.3em;
   text-align: center;
-  background-color: #8ABBE4;
+  background-color: #8ABBE4;*/
 }
 
 .side-column {
@@ -77,4 +77,5 @@ p {
   margin: 1em;
   background-color:#F08080;
   max-width: 5em;
+  padding: 2em;
 }
