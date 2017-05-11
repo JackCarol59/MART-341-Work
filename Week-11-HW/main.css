@@ -14,21 +14,21 @@ body {
 
 .top {
     min-height: 100vh;
-    background-image: url("grinnellake.jpg");
+    background-image: url("./images/grinnellake.jpg");
 }
 
 .middle {
     min-height: 100vh;
-    background-image: url("mtrail.jpg");
+    background-image: url("./images/mtrail.jpg");
 }
 
 .end {
     min-height: 100vh;
-    background-image: url("fall.jpg");
+    background-image: url("./images/fall.jpg");
 }
 .bottom {
     min-height: 100vh;
-    background-image: url("campus.jpg");
+    background-image: url("./images/campus.jpg");
 }
 .hero {
     padding: 50px 80px;
