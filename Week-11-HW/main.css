@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    color: black;
+    font: 600 15px/1.8, sans-serif;
+}
+
+.top, .middle, .end, .bottom {
+    position: relative;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.top {
+    min-height: 100vh;
+    background-image: url("grinnellake.jpg");
+}
+
+.middle {
+    min-height: 100vh;
+    background-image: url("mtrail.jpg");
+}
+
+.end {
+    min-height: 100vh;
+    background-image: url("fall.jpg");
+}
+.bottom {
+    min-height: 100vh;
+    background-image: url("campus.jpg");
+}
+.hero {
+    padding: 50px 80px;
+    color: black;
+    background-color: #5ad753;
+    text-align: center;
+    text-align: justify;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.caption {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+}
+
+.description-container {
+    position: relative;
+}
+
+.description {
+    padding: 50px 80px;
+    color: black;
+    background-color: #5ad753;
+    text-align: center;
+    text-align: justify;
+    font-family: sans-serif;
+    font-size: 20px
+}
+
+.caption span.border {
+    padding: 18px;
+    color: white;
+    background-color: #1fbd16;
+    font-size: 40px;
+    letter-spacing: 10px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+h3 {
+    color: black;
+    text-transform: uppercase;
+    font: 20px;
+    letter-spacing: 5px;
+    font-family: sans-serif;
+}
+
+@media only screen and (max-device-width: 1024px) {
+    .top, .middle, .end .bottom {
+        background-attachment: scroll;
+    }
+}
